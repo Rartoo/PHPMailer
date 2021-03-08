@@ -1,4 +1,2 @@
 # PHPMailer
-The classic email sending library for PHP
-
-Drop in and go code for sending using SMTP via PHP
+The classic email sending library for PHP - stripped down, simple drop in for sending email using SMTP
